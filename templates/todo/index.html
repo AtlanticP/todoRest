@@ -23,9 +23,13 @@
 		<input type="checkbox" ng-model="todo.done"><span ng-bind="todo.todoText"></span>
 	</div>
 	
-	<button ng-click="remove()">Done</button>
-
+	<p>
+		<button ng-click="remove()">Done</button>
+	</p>
+	
+	
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.5/angular.min.js"></script>
+	
 	<script type="text/javascript" src="{% static 'myApp/js/todo.js' %}"></script>
 	
 	<!-- <script type="text/javascript" src="{% static 'myApp/js/angular.min.js' %}"></script> -->
