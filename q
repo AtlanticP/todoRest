@@ -1,0 +1,57 @@
+[33mcommit f22623a480efdd146cdae7890304b0f61650a38d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/angular[m[33m)[m
+Author: skokova <davidovnv@gmail.com>
+Date:   Sun Aug 27 18:24:40 2017 +0300
+
+    sunday
+
+[33mcommit ac9368ee7082ff4d4cb01d090192c932d424ecb9[m
+Author: skokova <davidovnv@gmail.com>
+Date:   Sun Aug 27 12:23:28 2017 +0300
+
+    saturday
+
+[33mcommit a56eb1570e9f052d2376a1625ce6c42e1506abf5[m
+Merge: cb077f7 35cfb23
+Author: skokova <davidovnv@gmail.com>
+Date:   Sat Aug 26 15:52:38 2017 +0300
+
+    Merge branch 'static_files'
+
+[33mcommit cb077f774f7794247eab68db36751eb2875e994e[m
+Author: skokova <davidovnv@gmail.com>
+Date:   Sat Aug 26 15:45:26 2017 +0300
+
+    Static dirtectory has been developed.
+
+[33mcommit 35cfb237f12147380b54a916a194638ae71cef4b[m
+Author: skokova <davidovnv@gmail.com>
+Date:   Sat Aug 26 15:45:26 2017 +0300
+
+    static files has been managed.
+    
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit 7aac90380a3e55548e72f1f0c6adef61ec30f826[m
+Merge: 9114328 d7a1722
+Author: skokova <davidovnv@gmail.com>
+Date:   Sat Aug 26 15:31:29 2017 +0300
+
+    create database, merge with static_files
+
+[33mcommit 91143288fe19be93ff9164df1d60c8b3ecdf232e[m
+Author: skokova <davidovnv@gmail.com>
+Date:   Sat Aug 26 15:28:01 2017 +0300
+
+    created a mysql bases
+
+[33mcommit d7a1722941ec2a32767adb24ab7a6a4c87c00d4a[m
+Author: skokova <davidovnv@gmail.com>
+Date:   Sat Aug 26 14:21:56 2017 +0300
+
+    to proceed managing staticfiles
+
+[33mcommit b168f5e6a2ac1e51d1a528f1853d4d15e6dd1c6a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: home <davidovnv@gmail.com>
+Date:   Sun Aug 20 20:10:37 2017 +0300
+
+    sunday, Home
