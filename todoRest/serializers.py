@@ -1,11 +1,11 @@
 from rest_framework import serializers
 
-from todoRest.models import ToDoElements
+from todoRest.models import ToDo
 
 
 class ToDoSerializer(serializers.ModelSerializer):
 	
 	class Meta:
-		model = ToDoElements
-		fields = ('id', 'todo_text', 'done')
+		model = ToDo
+		fields = ('id', 'text', 'done')
 

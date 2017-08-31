@@ -1,6 +1,7 @@
 var app = angular.module('toDo', []);
 app.controller('toDoController', function($scope) {
-	$scope.todoList = [{todoText: 'finish this app', done: false}];
+	$http.get('/todo/api/').then(function(response) {
+		$scope.todoList = response.data;
 	$scope.todoAdd = function () {
 		$scope.todoList.push({todoText: $scope.todoInput, done: false});
 		$scope.todoInput = '';
